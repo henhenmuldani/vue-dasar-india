@@ -10,6 +10,16 @@
     npm run dev 
 */
 
+//! Push ke github
+/* 
+git init
+git add .
+git commit -m "first commit"
+git branch -M master
+git remote add origin https://github.com/henhenmuldani/vue-dasar-india.git
+git push -u origin master
+*/
+
 //! Struktur folder dan file
 /* 
 1. pada file .vue ada 3 bagian
